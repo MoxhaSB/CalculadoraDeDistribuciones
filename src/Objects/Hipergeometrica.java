@@ -1,2 +1,4 @@
-package Objects;public class Hipergeometrica {
+package Objects;
+
+public class Hipergeometrica {
 }

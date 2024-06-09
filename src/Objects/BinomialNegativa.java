@@ -1,2 +1,4 @@
-package Objects;public class BinomialNegativa {
+package Objects;
+
+public class BinomialNegativa {
 }

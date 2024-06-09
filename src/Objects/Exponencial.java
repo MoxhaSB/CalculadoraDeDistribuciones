@@ -1,2 +1,4 @@
-package Objects;public class Exponencial {
+package Objects;
+
+public class Exponencial {
 }
